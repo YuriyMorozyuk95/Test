@@ -1,0 +1,1 @@
+COUNTRY\tALPHANUMERIC SENDER ID SUPPORTED:\nAfghanistan\n\nYes - Pre-Registration Required\n\nAlbania\n\nYes\n\nAlgeria\n\nYes\n\nAmerican Samoa\n\nYes

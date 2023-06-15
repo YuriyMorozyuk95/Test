@@ -1,0 +1,1 @@
+Alphanumeric Sender ID allows you to send Twilio Programmable SMS messages to supported countries from a personalized sender ID (like a business or organization name), instead of your E.164 formatted Twilio Phone number.\n\nThe example below shows how an Alphanumeric Sender ID (AUTHMSG) would look in place of the standard number.
